@@ -1,0 +1,52 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(16, 0, 45);
+    color: white;
+}
+.container {
+  width: 500px;
+  height: 300px;
+  background-color: rgb(18, 6, 84);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+    align-items: center;
+  
+}
+
+.x{
+    color: white;
+}
+
+label{
+    font-size: 20px;
+    padding-right: 2px;
+}
+.username{
+    width: 200px;
+    height: 23px;
+  
+ 
+   
+}
+.btn {
+   width: 70px;
+   height: 30px;
+   margin-left: 100px;
+   margin-top: 20px;
+   font-size: 15px;
+   font-weight: 700;
+   background-color: rgb(255, 140, 0);
+   color: rgb(255, 255, 255);
+   border-radius: 4px;
+
+} 
