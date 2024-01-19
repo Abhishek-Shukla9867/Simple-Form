@@ -1,2 +1,2 @@
 # Simple-Form
-insert HTML form data into mysql database, using  PHP
+inserting HTML form data into mysql database, using  PHP
